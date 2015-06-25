@@ -1,0 +1,8 @@
+node_modules
+public/js
+logs
+coverage
+npm-debug.log
+.tmp
+.DS_Store
+.env
