@@ -1,4 +1,4 @@
-# react-fb-login
+# isomorphic-articles
 
 > Isomorphic react application using flux and react-router
 
