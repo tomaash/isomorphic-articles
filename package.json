@@ -1,5 +1,5 @@
 {
-  "name": "react-fb-login",
+  "name": "isomorphic-articles",
   "version": "0.0.1",
   "description": "Isomorphic react articles application",
   "main": "server/index.js",
